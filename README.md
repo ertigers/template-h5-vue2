@@ -15,10 +15,5 @@ yarn serve
 yarn build
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### 本项目dev分支表示使用该模块搭建的项目
+#### 本项目main分支表示模块的纯净模式，开箱即用
